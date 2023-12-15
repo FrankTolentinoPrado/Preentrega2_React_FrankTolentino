@@ -1,0 +1,32 @@
+.itemcard {
+    max-width: 300px; /* Ancho máximo de la tarjeta */
+    margin: 16px; /* Margen externo */
+    text-align: center; /* Alineación del texto al centro */
+    border: 1px solid #ddd; /* Bordes del contenedor */
+    border-radius: 8px; /* Esquinas redondeadas */
+    padding: 16px; /* Espaciado interno */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */
+    transition: transform 0.3s ease-in-out; /* Transición suave al hacer hover */
+}
+
+.itemcard:hover {
+    transform: scale(1.05); /* Efecto de escala al hacer hover */
+}
+  
+.itemcard img {
+    max-width: 100%; /* Imagen ajustada al contenedor */
+    border-radius: 8px; /* Esquinas redondeadas para la imagen */
+    margin-bottom: 12px; /* Espaciado inferior para la imagen */
+}
+  
+.itemcard h2 {
+    color: #333; /* Color del título */
+}
+  
+.itemcard p {
+    color: #666; /* Color del texto */
+}
+  
+.itemcard p:last-child {
+    margin-bottom: 0; /* Eliminar espacio inferior para el último párrafo */
+}

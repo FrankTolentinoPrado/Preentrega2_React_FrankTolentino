@@ -1,0 +1,94 @@
+
+header {
+    background: rgb(133, 133, 235);
+    width: 100%;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 50px;
+}
+
+header .logo {
+    font-family: fantasy;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+.logo{
+    color: aliceblue;
+}
+
+header nav ul {
+    display: flex;
+}
+
+header nav ul li a {
+    margin: 5px 0;
+    display: inline-block;
+    color: #ffffff;
+    padding: 5px 0;
+    margin: 0 10px;
+    border: 3px solid transparent;
+    text-transform: uppercase;
+    transition: 0.2s;
+}
+
+.boton_login {
+    padding: 0.2rem 1rem;
+    background-color: rgb(92, 29, 170);
+    border-radius: 1.5rem;
+    transition: 0.4s ease-in, color 0.4s ease-in;
+}
+
+
+header nav ul li a:hover,
+header nav ul li a.active {
+    border-bottom-color: dodgerblue;
+}
+
+.contenedor_hamburguesa {
+    background-color: rgb(133, 133, 235);
+}
+
+.hamburger {
+    cursor: pointer;
+    display: none;
+}
+.hamburger div {
+    width: 30px;
+    height: 3px;
+    margin: 5px 0;
+    background: #ffffff;
+}
+
+/*Aquie empieza la media para el header*/
+@media only screen and (max-width: 1250px) {
+    header {
+        padding: 0 30px;
+    }
+}
+@media only screen and (max-width: 700px) {
+    .hamburger {
+        display: block;
+    }
+    header nav {
+        position: absolute;
+        width: 100%;
+        left: -100%;
+        top: 70px;
+        width: 100%;
+        background: #fff;
+        padding: 30px;
+        transition: 0.3s;
+    }
+    header #nav_check:checked ~ nav {
+        left: 0;
+    }
+    header nav ul {
+        display: block;
+    }
+    header nav ul li a {
+        margin: 5px 0;
+    }
+}
