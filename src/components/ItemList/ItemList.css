@@ -1,9 +1,20 @@
 .lista-cards {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    align-items: stretch;
-  }
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: stretch;
+}
+
+.titulo-principal{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: rgb(255, 255, 255);
+  font-size: 2rem;
+  font-family: sans-serif;
+  text-align: center;
+  
+
+}
   
   @media (max-width: 768px) {
     .lista-cards {

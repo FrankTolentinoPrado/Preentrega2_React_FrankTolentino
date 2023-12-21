@@ -1,301 +1,323 @@
-[{
+[
+{
   "id": 1,
-  "title": "Beans - French",
-  "image": "http://dummyimage.com/250x250.png/5fa2dd/ffffff",
-  "price": "7867",
-  "description": "odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis"
-}, {
+  "title": "Banpresto Dragon Ball Z - Goku Super Saiyan",
+  "image": "https://phantom.pe/media/catalog/product/cache/2d2e350e73065c0f42c90f0a12869353/4/9/4983164197150.jpg",
+  "price": "139.90",
+  "description": "Figura de Goku Super Saiyan, basada en el popular manga y anime “Dragon Ball Z.",
+  "category": "Coleccionables"
+}, 
+{
   "id": 2,
-  "title": "Coffee Cup 8oz 5338cd",
-  "image": "http://dummyimage.com/250x250.png/ff4444/ffffff",
-  "price": "338",
-  "description": "ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in"
-}, {
+  "title": "Banpresto Dragon Ball Super - Gohan Super Saiyan",
+  "image": "https://phantom.pe/media/catalog/product/cache/2d2e350e73065c0f42c90f0a12869353/4/9/4983164193824.jpg",
+  "price": "119.90",
+  "description": "Figura de Gohan Super Saiyan, basada en el popular manga y anime “Dragon Ball Super Hero”.",
+  "category": "Coleccionables"
+}, 
+{
   "id": 3,
-  "title": "Oregano - Dry, Rubbed",
-  "image": "http://dummyimage.com/250x250.png/dddddd/000000",
-  "price": "428",
-  "description": "venenatis turpis enim blandit mi in porttitor pede justo eu massa donec"
-}, {
+  "title": "Banpresto One Piece - Roronoa Zoro",
+  "image": "https://phantom.pe/media/catalog/product/cache/2d2e350e73065c0f42c90f0a12869353/4/9/4983164189490.jpg",
+  "price": "139.90",
+  "description": "figura de Roronoa Zoro, figura 17 cm The Grandline Series Men.",
+  "category": "Coleccionables"
+}, 
+{
   "id": 4,
-  "title": "Duck - Fat",
-  "image": "http://dummyimage.com/250x250.png/dddddd/000000",
-  "price": "0",
-  "description": "ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra"
-}, {
+  "title": "Banpresto One Piece Film Red - Shanks",
+  "image": "https://phantom.pe/media/catalog/product/cache/2d2e350e73065c0f42c90f0a12869353/b/a/banpresto_one_piece_shanks_1_.jpg",
+  "price": "129.90",
+  "description": "Figura de Shanks, del popular manga y anime “One Piece Film Red Dxf The Grandline Series.",
+  "category": "Coleccionables"
+}, 
+{
   "id": 5,
-  "title": "Pork - Side Ribs",
-  "image": "http://dummyimage.com/250x250.png/cc0000/ffffff",
-  "price": "4079",
-  "description": "lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea"
-}, {
+  "title": "Banpresto One Piece - Monkey D. Luffy",
+  "image": "https://phantom.pe/media/catalog/product/cache/2d2e350e73065c0f42c90f0a12869353/b/a/banpresto_one_piece_luffy_big_colosseum_1_.jpg",
+  "price": "154.90",
+  "description": "Figura de Luffy del popular manga y anime “One Piece.",
+  "category": "Coleccionables"
+}, 
+{
   "id": 6,
-  "title": "Quinoa",
-  "image": "http://dummyimage.com/250x250.png/cc0000/ffffff",
-  "price": "197",
-  "description": "est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus"
-}, {
+  "title": "Banpresto Demon Slayer - Tengen Uzui",
+  "image": "https://phantom.pe/media/catalog/product/cache/2d2e350e73065c0f42c90f0a12869353/b/a/banpresto_demon_slayer_tengen_uzui.jpg",
+  "price": "119.90",
+  "description": "figura Vibration Stars Tengen Uzui, del popular manga y anime “Kimetsu no Yaiba Demon Salyer.",
+  "category": "Coleccionables"
+}, 
+{
   "id": 7,
-  "title": "Tomato - Plum With Basil",
-  "image": "http://dummyimage.com/250x250.png/dddddd/000000",
-  "price": "9",
-  "description": "justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim"
-}, {
+  "title": "Super Mario Bros -Figura de Bowser de 7",
+  "image": "https://phantom.pe/media/catalog/product/cache/2d2e350e73065c0f42c90f0a12869353/b/o/bowser_super_mario_movie_figura_1_.jpg",
+  "price": "259.90",
+  "description": "Figura de Bowser de Super Mario Bros.",
+  "category": "Coleccionables"
+}, 
+{
   "id": 8,
-  "title": "Magnotta - Bel Paese White",
-  "image": "http://dummyimage.com/250x250.png/ff4444/ffffff",
-  "price": "845",
-  "description": "consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus"
-}, {
+  "title": "Banpresto Figura - Manjiro Sano",
+  "image": "https://phantom.pe/media/catalog/product/cache/2d2e350e73065c0f42c90f0a12869353/b/a/banpresto_tokyo_revenge_manjiro_sano_1_.jpg",
+  "price": "109.90",
+  "description": "Figura de Manjiro Sano Vol.2, personaje de la serie de manga Tokyo Revengers",
+  "category": "Coleccionables"
+}, 
+{
   "id": 9,
-  "title": "Chocolate Eclairs",
-  "image": "http://dummyimage.com/250x250.png/dddddd/000000",
-  "price": "747",
-  "description": "eget eleifend luctus ultricies eu nibh quisque id justo sit amet"
-}, {
+  "title": "Banpresto Figura - Inosuke Hashibira",
+  "image": "https://phantom.pe/media/catalog/product/cache/2d2e350e73065c0f42c90f0a12869353/b/a/banpresto_demon_slayer_inosuke.jpg",
+  "price": "149.90",
+  "description": "Figura de Inosuke Hashibira, del popular manga y anime Demon Slayer: Kimetsu no Yaiba.",
+  "category": "Coleccionables"
+}, 
+{
   "id": 10,
-  "title": "Breakfast Quesadillas",
-  "image": "http://dummyimage.com/250x250.png/dddddd/000000",
-  "price": "1995",
-  "description": "suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus"
-}, {
+  "title": "Banpresto Figura One Piece - Portgas D. Ace",
+  "image": "https://phantom.pe/media/catalog/product/cache/2d2e350e73065c0f42c90f0a12869353/b/a/banpresto_one_piece_portgas_d_ace_3_1_.jpg",
+  "price": "239.90",
+  "description": "Figura de The Portgas D Ace III, del popular manga y anime One Piece.",
+  "category": "Coleccionables"
+}, 
+{
   "id": 11,
-  "title": "Kellogs Special K Cereal",
-  "image": "http://dummyimage.com/250x250.png/ff4444/ffffff",
-  "price": "143",
-  "description": "etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi cras non"
-}, {
+  "title": "Peluche Harry Potter Gryffindor",
+  "image": "https://lafrikileria.com/80704-large_default/peluche-harry-potter-gryffindor-29-cm.jpg",
+  "price": "23.90",
+  "description": "Un fantástico peluche oficial de Harry Potter de nada menos que 29 cm.",
+  "category": "Peluches"
+  
+}, 
+{
   "id": 12,
-  "title": "Mushroom - Trumpet, Dry",
-  "image": "http://dummyimage.com/250x250.png/ff4444/ffffff",
-  "price": "0621",
-  "description": "potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus"
-}, {
+  "title": "Peluche Inosuke Hashibira Kimetsu no Yaiba",
+  "image": "https://lafrikileria.com/124221-large_default/peluche-inosuke-hashibira-kimetsu-no-yaiba-20-cm.jpg",
+  "price": "34.90",
+  "description": "Un maravilloso peluche oficial, de una de nuestras series de manga y anime favoritas  Demon Slayer.",
+  "category": "Peluches"
+}, 
+{
   "id": 13,
-  "title": "Soup - Campbells Beef Stew",
-  "image": "http://dummyimage.com/250x250.png/ff4444/ffffff",
-  "price": "76",
-  "description": "erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris"
-}, {
+  "title": "Peluche Stitch Disney Zippermouth",
+  "image": "https://lafrikileria.com/153296-large_default/peluche-stitch-disney-zippermouth.jpg",
+  "price": "44.90",
+  "description": "Un peluche al estilo Chibi de la colección de Zippermouth del prestigioso Quantum Mechanix.",
+  "category": "Peluches"
+}, 
+{
   "id": 14,
-  "title": "Cookies - Assorted",
-  "image": "http://dummyimage.com/250x250.png/ff4444/ffffff",
-  "price": "36",
-  "description": "nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet"
-}, {
+  "title": "Peluche Loid Forger Spy x Family",
+  "image": "https://lafrikileria.com/151940-large_default/peluche-loid-forger-spy-x-family-good-smile.jpg",
+  "price": "44.90 ",
+  "description": "Un maravilloso peluche oficial, de una de las series de manga y anime más geniales: Spy x Family.",
+  "category": "Peluches"
+}, 
+{
   "id": 15,
-  "title": "Crab - Blue, Frozen",
-  "image": "http://dummyimage.com/250x250.png/dddddd/000000",
-  "price": "0199",
-  "description": "nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit"
-}, {
+  "title": "Peluche Zippermouth Marvel Loki Alligator",
+  "image": "https://lafrikileria.com/176062-large_default/peluche-zippermouth-marvel-loki-alligator.jpg",
+  "price": "44.90",
+  "description": "El Peluche Zippermouth Marvel Loki Alligator es sin duda alguna un espectacular producto.",
+  "category": "Peluches"
+}, 
+{
   "id": 16,
-  "title": "Pails With Lids",
-  "image": "http://dummyimage.com/250x250.png/ff4444/ffffff",
-  "price": "09",
-  "description": "eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros"
-}, {
+  "title": "Peluche Escarbato Animales Fantásticos",
+  "image": "https://lafrikileria.com/29863-large_default/peluche-escarbato-animales-fantasticos-23-cm.jpg",
+  "price": "44.90",
+  "description": "Un fantástico peluche oficial de Animales Fantásticos, las películas paralelas al universo Harry Potter.",
+  "category": "Peluches"
+}, 
+{
   "id": 17,
-  "title": "Corn Shoots",
-  "image": "http://dummyimage.com/250x250.png/dddddd/000000",
-  "price": "9836",
-  "description": "porttitor pede justo eu massa donec dapibus duis at velit eu est congue elementum in hac habitasse"
-}, {
+  "title": "Peluche Interactivo Hedwig Harry Potter",
+  "image": "https://lafrikileria.com/119879-large_default/peluche-interactivo-hedwig-harry-potter-29-cm.jpg",
+  "price": "44.90",
+  "description": "Un fantástico peluche interactivo de Hedwig, la lechuza más querida de la saga de libros y películas con más magia que conocemos.",
+  "category": "Peluches"
+}, 
+{
   "id": 18,
-  "title": "Wine - Crozes Hermitage E.",
-  "image": "http://dummyimage.com/250x250.png/dddddd/000000",
-  "price": "8169",
-  "description": "sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum"
-}, {
+  "title": "Peluche Shen- long Dragon Ball",
+  "image": "https://lafrikileria.com/72951-large_default/peluche-shenron-dragon-ball-30-cm.jpg",
+  "price": "23.90",
+  "description": "Un peluche de gran calidad tanto en materiales como en acabados, inspirado en Shen- long",
+  "category": "Peluches"
+}, 
+{
   "id": 19,
-  "title": "Island Oasis - Mango Daiquiri",
-  "image": "http://dummyimage.com/250x250.png/5fa2dd/ffffff",
-  "price": "86",
-  "description": "erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit"
-}, {
+  "title": "Peluche Baby Yoda El Mandaloriano",
+  "image": "https://lafrikileria.com/82393-large_default/peluche-baby-yoda-animatronico-comilon-el-mandaloriano.jpg",
+  "price": "67.40",
+  "description": "No encontrarás en la galaxia nada más adorable que este pequeño peluche de Grogu.",
+  "category": "Peluches"
+}, 
+{
   "id": 20,
-  "title": "Crush - Cream Soda",
-  "image": "http://dummyimage.com/250x250.png/dddddd/000000",
-  "price": "3207",
-  "description": "ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque"
-}, {
+  "title": "Peluche Maléfica Dragón Zippermouth",
+  "image": "https://lafrikileria.com/153321-large_default/peluche-malefica-dragon-zippermouth-disney.jpg",
+  "price": "44.90",
+  "description": "Un peluche al estilo Chibi de la colección de Zippermouth del prestigioso Quantum Mechanix.",
+  "category": "Peluches"
+}, 
+{
   "id": 21,
-  "title": "Wanton Wrap",
-  "image": "http://dummyimage.com/250x250.png/ff4444/ffffff",
-  "price": "7009",
-  "description": "in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus"
-}, {
+  "title": "Funko Pop - Charizard",
+  "image": "https://phantom.pe/media/catalog/product/cache/2d2e350e73065c0f42c90f0a12869353/f/u/funko_pop_charizard.jpg",
+  "price": "69.90",
+  "description": "Figura Funko Pop de Charizard, de la serie animada Pokemon.",
+  "category": "Funkopops"
+}, 
+{
   "id": 22,
-  "title": "Crab Brie In Phyllo",
-  "image": "http://dummyimage.com/250x250.png/ff4444/ffffff",
-  "price": "98435",
-  "description": "dapibus duis at velit eu est congue elementum in hac habitasse platea dictumst morbi"
-}, {
+  "title": "Funko Pop - Eren Jaeger",
+  "image": "https://phantom.pe/media/catalog/product/cache/2d2e350e73065c0f42c90f0a12869353/6/7/67926_aot_s5_erenjaeger_pop_glam-web.jpg",
+  "price": "69.90",
+  "description": "Figura Funko Pop de Eren Jaeger, de la serie animada Attack on Titan.",
+  "category": "Funkopops"
+}, 
+{
   "id": 23,
-  "title": "Tray - Foam, Square 4 - S",
-  "image": "http://dummyimage.com/250x250.png/ff4444/ffffff",
-  "price": "0",
-  "description": "et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti"
-}, {
+  "title": "Funko Pop - Naruto Baryon",
+  "image": "https://phantom.pe/media/catalog/product/cache/2d2e350e73065c0f42c90f0a12869353/6/6/66452_popsuper_boruto_narutobyron_glam-web.jpg",
+  "price": "109.90",
+  "description": "Figura Funko Pop de Naruto (Baryon Mode), de la serie animada Boruto.",
+  "category": "Funkopops"
+}, 
+{
   "id": 24,
-  "title": "Plasticspoonblack",
-  "image": "http://dummyimage.com/250x250.png/5fa2dd/ffffff",
-  "price": "8",
-  "description": "rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer"
-}, {
+  "title": "Funko Pop - Mewtwo",
+  "image": "https://phantom.pe/media/catalog/product/cache/2d2e350e73065c0f42c90f0a12869353/c/o/copia_de_funko-pop-games-pokemon-mewtwo..jpg",
+  "price": "69.90",
+  "description": "Figura Funko Pop de Mewtwo, de la serie animada Pokemon.",
+  "category": "Funkopops"
+}, 
+{
   "id": 25,
-  "title": "Vinegar - Balsamic, White",
-  "image": "http://dummyimage.com/250x250.png/dddddd/000000",
-  "price": "52",
-  "description": "curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis"
-}, {
+  "title": "Funko Pop - Tanjiro Kamado",
+  "image": "https://phantom.pe/media/catalog/product/cache/2d2e350e73065c0f42c90f0a12869353/f/u/funko_pop_tanjiro.jpg",
+  "price": "69.90",
+  "description": "Figura Funko Pop de Tanjiro Kamado, de la serie animada Demon Slayer.",
+  "category": "Funkopops"
+}, 
+{
   "id": 26,
-  "title": "Appetizer - Southwestern",
-  "image": "http://dummyimage.com/250x250.png/ff4444/ffffff",
-  "price": "6270",
-  "description": "enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec"
-}, {
+  "title": "Funko Pop - Sasuke Uchiha",
+  "image": "https://phantom.pe/media/catalog/product/cache/2d2e350e73065c0f42c90f0a12869353/7/2/72072_popanimation_naruto_sasukefirstsusanoo_glam-web.jpg",
+  "price": "69.90",
+  "description": "Figura Funko Pop de Sasuke Uchiha, de la serie animada Naruto Shippuden.",
+  "category": "Funkopops"
+}, 
+{
   "id": 27,
-  "title": "Flour - Whole Wheat",
-  "image": "http://dummyimage.com/250x250.png/dddddd/000000",
-  "price": "6704",
-  "description": "sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas"
-}, {
+  "title": "Funko Pop Yu-Gi-Oh! - Yami Yugi",
+  "image": "https://phantom.pe/media/catalog/product/cache/2d2e350e73065c0f42c90f0a12869353/7/2/72066-pop-animation-yu-gi-oh_---yami-yugi-_duelist-kingdom_---glam-web.jpg",
+  "price": "69.90",
+  "description": "Figura Funko Pop de Yami Yugi, de la serie animada Yu-Gi-Oh!",
+  "category": "Funkopops"
+}, 
+{
   "id": 28,
-  "title": "Bread - White Mini Epi",
-  "image": "http://dummyimage.com/250x250.png/ff4444/ffffff",
-  "price": "9671",
-  "description": "dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum"
-}, {
+  "title": "Funko Pop - Madara Uchiha",
+  "image": "https://phantom.pe/media/catalog/product/cache/2d2e350e73065c0f42c90f0a12869353/6/0/60710_popanimation_naruto_obitouchihamasked_glam-web.jpg",
+  "price": "89.90",
+  "description": "Figura Funko Pop de Madara Uchiha, de la serie animada Naruto.",
+  "category": "Funkopops"
+}, 
+{
   "id": 29,
-  "title": "Fudge - Chocolate Fudge",
-  "image": "http://dummyimage.com/250x250.png/dddddd/000000",
-  "price": "34910",
-  "description": "est et tempus semper est quam pharetra magna ac consequat metus"
-}, {
+  "title": "Funko Pop Animation: Saint Seiya - Leo Ikki",
+  "image": "https://phantom.pe/media/catalog/product/cache/2d2e350e73065c0f42c90f0a12869353/7/2/72059-pop-animation-saint-seiya----gold-leo-ikki_glam-web.jpg",
+  "price": "109.90",
+  "description": "Figura Funko Pop de Leo Ikki, de la serie animada Saint Seiya.",
+  "category": "Funkopops"
+}, 
+{
   "id": 30,
-  "title": "Sauce - Fish 25 Ozf Bottle",
-  "image": "http://dummyimage.com/250x250.png/ff4444/ffffff",
-  "price": "9359",
-  "description": "diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam"
-}, {
+  "title": "Funko Pop My Hero Academia - Izuku Midoriya",
+  "image": "https://phantom.pe/media/catalog/product/cache/2d2e350e73065c0f42c90f0a12869353/6/7/67327_popanimation_mha_deku_blackwhip_glam-web.jpg",
+  "price": "69.90",
+  "description": "diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam",
+  "category": "Funkopops"
+}, 
+{
   "id": 31,
-  "title": "V8 Splash Strawberry Banana",
-  "image": "http://dummyimage.com/250x250.png/cc0000/ffffff",
-  "price": "849",
-  "description": "semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis"
-}, {
+  "title": "Camiseta Death Note Ryuk",
+  "image": "https://lafrikileria.com/106927-large_default/camiseta-death-note-ryuk.jpg",
+  "price": "19.90",
+  "description": "Es una camiseta oficial inspirada en una de las series más oscuras del manga y el anime Death Note.",
+  "category": "Ropa"
+}, 
+{
   "id": 32,
-  "title": "Pasta - Angel Hair",
-  "image": "http://dummyimage.com/250x250.png/dddddd/000000",
-  "price": "5",
-  "description": "vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci"
-}, {
+  "title": "Camiseta My Hero Academia Deku y Bakugo",
+  "image": "https://lafrikileria.com/122698-large_default/camiseta-my-hero-academia-deku-y-bakugo.jpg",
+  "price": "23.90",
+  "description": "Es una camiseta oficial inspirada en la serie de manga y anime con más héroes que conocemos My Hero Academia.",
+  "category": "Ropa"
+}, 
+{
   "id": 33,
-  "title": "Tea Peppermint",
-  "image": "http://dummyimage.com/250x250.png/cc0000/ffffff",
-  "price": "8314",
-  "description": "at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel"
-}, {
+  "title": "Poncho de franela One Piece Thousand Sunny",
+  "image": "https://lafrikileria.com/181158-large_default/poncho-de-franela-one-piece-thousand-sunny.jpg",
+  "price": "27.90",
+  "description": "Un espectacular poncho o batamanta para estar calentito en casa con licencia oficial de One Piece.",
+  "category": "Ropa"
+}, 
+{
   "id": 34,
-  "title": "Stock - Beef, Brown",
-  "image": "http://dummyimage.com/250x250.png/cc0000/ffffff",
-  "price": "7",
-  "description": "luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus"
-}, {
+  "title": "Poncho Naruto Akatsuki franela",
+  "image": "https://lafrikileria.com/180389-large_default/poncho-naruto-akatsuki-franela.jpg",
+  "price": "27.90",
+  "description": "Un espectacular poncho o batamanta para estar calentito en casa con licencia oficial de Naruto.",
+  "category": "Ropa"
+}, 
+{
   "id": 35,
-  "title": "Pork - Belly Fresh",
-  "image": "http://dummyimage.com/250x250.png/cc0000/ffffff",
-  "price": "62",
-  "description": "vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis"
-}, {
+  "title": "Sudadera My Hero Academia Izuku Midoriya",
+  "image": "https://lafrikileria.com/122703-large_default/sudadera-my-hero-academia-izuku-midoriya.jpg",
+  "price": "62.20",
+  "description": " Es una prenda de gran calidad, original y con un diseño elegante y original al mismo tiempo, basado en Boku no Hero",
+  "category": "Ropa"
+}, 
+{
   "id": 36,
-  "title": "Juice - Orange, 341 Ml",
-  "image": "http://dummyimage.com/250x250.png/dddddd/000000",
-  "price": "4544",
-  "description": "tristique in tempus sit amet sem fusce consequat nulla nisl"
-}, {
+  "title": "Sudadera Stitch Adolescentes de Disney",
+  "image": "https://lafrikileria.com/165543-large_default/sudadera-stitch-adolescentes-de-disney.jpg",
+  "price": "59.90",
+  "description": "La Sudadera Stitch Adolescentes es un producto de calidad confeccionado con una mezcla de algodón y poliéster de alta resistencia.",
+  "category": "Ropa"
+}, 
+{
   "id": 37,
-  "title": "Napkin - Beverge, White 2 - Ply",
-  "image": "http://dummyimage.com/250x250.png/ff4444/ffffff",
-  "price": "50775",
-  "description": "et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat"
-}, {
+  "title": "Sudadera con capucha reversible de Naruto",
+  "image": "https://lafrikileria.com/134087-large_default/sudadera-con-capucha-reversible-de-naruto.jpg",
+  "price": "59.90",
+  "description": "Es una prenda de gran calidad, original y con un diseño muy currado, basada en Naruto.",
+  "category": "Ropa"
+}, 
+{
   "id": 38,
-  "title": "Coffee Swiss Choc Almond",
-  "image": "http://dummyimage.com/250x250.png/ff4444/ffffff",
-  "price": "69679",
-  "description": "pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti"
-}, {
+  "title": "Sudadera con Capucha Harry Potter Gryffindor",
+  "image": "https://lafrikileria.com/124608-large_default/sudadera-con-capucha-harry-potter-gryffindor.jpg",
+  "price": "21.20",
+  "description": "Una maravilla de sudadera de Harry Potter de gran calidad, elegante y original, basada en la casa Gryffindor.",
+  "category": "Ropa"
+}, 
+{
   "id": 39,
-  "title": "Wine - Red, Cooking",
-  "image": "http://dummyimage.com/250x250.png/ff4444/ffffff",
-  "price": "0",
-  "description": "risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam"
-}, {
+  "title": "Sudadera Hogwarts Harry Potter",
+  "image": "https://lafrikileria.com/100698-large_default/sudadera-hogwarts-harry-potter.jpg",
+  "price": "12.90",
+  "description": "Una sudadera infantil de gran calidad, original y divertida, basada en Hogwarts.",
+  "category": "Ropa"
+},
+{
   "id": 40,
-  "title": "Lamb Rack - Ontario",
-  "image": "http://dummyimage.com/250x250.png/dddddd/000000",
-  "price": "3051",
-  "description": "nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros"
-}, {
-  "id": 41,
-  "title": "Mustard Prepared",
-  "image": "http://dummyimage.com/250x250.png/cc0000/ffffff",
-  "price": "5",
-  "description": "eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem"
-}, {
-  "id": 42,
-  "title": "Gatorade - Cool Blue Raspberry",
-  "image": "http://dummyimage.com/250x250.png/ff4444/ffffff",
-  "price": "54301",
-  "description": "duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis"
-}, {
-  "id": 43,
-  "title": "Lettuce - Escarole",
-  "image": "http://dummyimage.com/250x250.png/5fa2dd/ffffff",
-  "price": "2",
-  "description": "tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo"
-}, {
-  "id": 44,
-  "title": "Nantucket Orange Juice",
-  "image": "http://dummyimage.com/250x250.png/ff4444/ffffff",
-  "price": "57",
-  "description": "felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa"
-}, {
-  "id": 45,
-  "title": "Soda Water - Club Soda, 355 Ml",
-  "image": "http://dummyimage.com/250x250.png/dddddd/000000",
-  "price": "0",
-  "description": "faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis"
-}, {
-  "id": 46,
-  "title": "Tumeric",
-  "image": "http://dummyimage.com/250x250.png/ff4444/ffffff",
-  "price": "2",
-  "description": "molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est"
-}, {
-  "id": 47,
-  "title": "Juice - Grapefruit, 341 Ml",
-  "image": "http://dummyimage.com/250x250.png/ff4444/ffffff",
-  "price": "3",
-  "description": "ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam"
-}, {
-  "id": 48,
-  "title": "Cheese - Cheddar With Claret",
-  "image": "http://dummyimage.com/250x250.png/cc0000/ffffff",
-  "price": "36062",
-  "description": "erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus"
-}, {
-  "id": 49,
-  "title": "Beer - Moosehead",
-  "image": "http://dummyimage.com/250x250.png/cc0000/ffffff",
-  "price": "7140",
-  "description": "ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl"
-}, {
-  "id": 50,
-  "title": "Glass Clear 7 Oz Xl",
-  "image": "http://dummyimage.com/250x250.png/dddddd/000000",
-  "price": "0",
-  "description": "ipsum dolor sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum"
-}]
+  "title": "Chaqueta Beisbolera infantil Hogwarts Harry Potter",
+  "image": "https://lafrikileria.com/153681-large_default/chaqueta-beisbolera-infantil-hogwarts-harry-potter.jpg",
+  "price": "22.79",
+  "description": "Es muy cómoda, perfecta para el día a día y tiene un diseño homenaje al Colegio Hogwarts de magia y hechicería.",
+  "category": "Ropa"
+}
+]

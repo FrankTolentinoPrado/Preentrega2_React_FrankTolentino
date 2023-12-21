@@ -2,23 +2,33 @@ import { useEffect, useState } from "react";
 import ItemList from "../ItemList/ItemList";
 import pedirProductos from "../helpers/pedirProductos";
 import pedirItemPorId from "../helpers/pedirItemPorId";
+import { useParams } from "react-router-dom";
 
 
 const ItemListContainer = () => {
 
     const [productos, setProductos] = useState([]);
-
+    const [titulo, setTitulo] = useState("Productos");
+    const category = useParams().category;
+    console.log(category);
+    
     useEffect(() => {
         pedirProductos()      
-        .then((res) => {
-            setProductos(res);
-        })
-    }, [])
+            .then((res) => {
+                if (category){
+                    setProductos( res.filter((prod) => prod.category === category ) );
+                    setTitulo(category)
+                } else {
+                    setProductos(res);
+                    setTitulo("Productos");
+                }
+            })
+    }, [category])
 
 
     return (
         <div>
-            <ItemList productos={productos}/>
+            <ItemList productos={productos} titulo={titulo}/>
         </div>
     )
 };

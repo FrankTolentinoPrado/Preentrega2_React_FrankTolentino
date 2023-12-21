@@ -24,9 +24,13 @@
 }
   
 .itemcard p {
-    color: #666; /* Color del texto */
+    color: #ffffff; /* Color del texto */
 }
   
 .itemcard p:last-child {
     margin-bottom: 0; /* Eliminar espacio inferior para el último párrafo */
+}
+
+h3 {
+    color: aqua;
 }

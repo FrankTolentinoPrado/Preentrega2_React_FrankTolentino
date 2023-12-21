@@ -1,0 +1,48 @@
+  .sec2 .subtitulo-sec2{
+    color: aliceblue;
+  }
+  
+  .container-sec2 {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
+    gap: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1500px;
+    padding: 0px 10px; 
+  }
+  
+  .sec2 h2 {
+    padding: 30px;
+    font-family: fantasy;
+    letter-spacing: 1px;
+    color: rgba(37, 118, 250, 1);
+    text-align: center;
+  }
+  
+  .subtitulo-sec2{
+    color: aliceblue;
+  }
+  
+  .article-sec2 {
+    color: aliceblue;
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+  }
+  
+  .article-sec2 p {
+    color: aliceblue;
+    align-items: center;
+    text-align: justify;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  .img-sec2 {
+    border-radius: 10px;
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+    height: 200px;
+  }

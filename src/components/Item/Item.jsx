@@ -7,6 +7,7 @@ const Item = ( {producto} ) => {
             <h2>{producto.title}</h2>
             <p>${producto.price}</p>
             <p>{producto.description}</p>
+            <h3>{producto.category}</h3>
             <a className="ver-mas" href={`/item/${producto.id}`}>Ver más</a>
         </div> 
     )
