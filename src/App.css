@@ -19,5 +19,56 @@ body {
   padding: 0;
 }
 
+/*Aquie empieza la media para el header*/
+@media only screen and (max-width: 1250px) {
+  header {
+      padding: 0 30px;
+  }
+}
+@media only screen and (max-width: 1280px) {
+  .hamburger {
+      display: block;
+  }
+  header nav {
+      position: absolute;
+      width: 100%;
+      left: -100%;
+      top: 70px;
+      width: 100%;
+      background: #fff;
+      padding: 30px;
+      transition: 0.3s;
+  }
+  header #nav_check:checked ~ nav {
+      left: 0;
+  }
+  header nav ul {
+      display: block;
+  }
+  header nav ul li a {
+      margin: 5px 0;
+  }
+}
+/*Aqui termina la media para el header*/
 
+/*Aqui empieza el apartado de la media para el contenido de nosotros*/
+@media (max-width: 1300px) {
+.nosotros {
+  flex-direction: column; 
+}
+
+.nosotros-img,
+.nosotros-txt {
+  flex-basis: 100%; 
+  margin: 0;
+  text-align: center;
+}
+
+.nosotros-img img {
+  width: 100%; 
+  margin: 0;
+  margin-top: 20px;
+    display: none;
+}
+}
 

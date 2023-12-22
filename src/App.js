@@ -4,6 +4,8 @@ import NavBar from "./components/NavBar/NavBar";
 import "./App.css"
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Nosotros from "./components/Nosotros/Nosotros";
+import Contacto from "./components/Contacto/Contacto";
+import Footer from "./components/Footer/Footer";
 
 function App() {
   return (
@@ -16,7 +18,9 @@ function App() {
           <Route path="/productos" element={<ItemListContainer />} />
           <Route path="/productos/:category" element={<ItemListContainer />} />
           <Route path="/nosotros" element={<Nosotros />} />
+          <Route path="/contacto" element={<Contacto />} />
         </Routes>
+        <Footer />
       </div>
     </BrowserRouter>
   );

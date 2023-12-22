@@ -5,7 +5,8 @@
   "image": "https://phantom.pe/media/catalog/product/cache/2d2e350e73065c0f42c90f0a12869353/4/9/4983164197150.jpg",
   "price": "139.90",
   "description": "Figura de Goku Super Saiyan, basada en el popular manga y anime “Dragon Ball Z.",
-  "category": "Coleccionables"
+  "category": "Coleccionables",
+  "stock": "10"
 }, 
 {
   "id": 2,
@@ -13,7 +14,8 @@
   "image": "https://phantom.pe/media/catalog/product/cache/2d2e350e73065c0f42c90f0a12869353/4/9/4983164193824.jpg",
   "price": "119.90",
   "description": "Figura de Gohan Super Saiyan, basada en el popular manga y anime “Dragon Ball Super Hero”.",
-  "category": "Coleccionables"
+  "category": "Coleccionables",
+  "stock": "14"
 }, 
 {
   "id": 3,
@@ -21,7 +23,8 @@
   "image": "https://phantom.pe/media/catalog/product/cache/2d2e350e73065c0f42c90f0a12869353/4/9/4983164189490.jpg",
   "price": "139.90",
   "description": "figura de Roronoa Zoro, figura 17 cm The Grandline Series Men.",
-  "category": "Coleccionables"
+  "category": "Coleccionables",
+  "stock": "11"
 }, 
 {
   "id": 4,
@@ -29,7 +32,8 @@
   "image": "https://phantom.pe/media/catalog/product/cache/2d2e350e73065c0f42c90f0a12869353/b/a/banpresto_one_piece_shanks_1_.jpg",
   "price": "129.90",
   "description": "Figura de Shanks, del popular manga y anime “One Piece Film Red Dxf The Grandline Series.",
-  "category": "Coleccionables"
+  "category": "Coleccionables",
+  "stock": "13"
 }, 
 {
   "id": 5,
@@ -37,7 +41,8 @@
   "image": "https://phantom.pe/media/catalog/product/cache/2d2e350e73065c0f42c90f0a12869353/b/a/banpresto_one_piece_luffy_big_colosseum_1_.jpg",
   "price": "154.90",
   "description": "Figura de Luffy del popular manga y anime “One Piece.",
-  "category": "Coleccionables"
+  "category": "Coleccionables",
+  "stock": "10"
 }, 
 {
   "id": 6,
@@ -45,7 +50,8 @@
   "image": "https://phantom.pe/media/catalog/product/cache/2d2e350e73065c0f42c90f0a12869353/b/a/banpresto_demon_slayer_tengen_uzui.jpg",
   "price": "119.90",
   "description": "figura Vibration Stars Tengen Uzui, del popular manga y anime “Kimetsu no Yaiba Demon Salyer.",
-  "category": "Coleccionables"
+  "category": "Coleccionables",
+  "stock": "20"
 }, 
 {
   "id": 7,
@@ -53,7 +59,8 @@
   "image": "https://phantom.pe/media/catalog/product/cache/2d2e350e73065c0f42c90f0a12869353/b/o/bowser_super_mario_movie_figura_1_.jpg",
   "price": "259.90",
   "description": "Figura de Bowser de Super Mario Bros.",
-  "category": "Coleccionables"
+  "category": "Coleccionables",
+  "stock": "16"
 }, 
 {
   "id": 8,
@@ -61,7 +68,8 @@
   "image": "https://phantom.pe/media/catalog/product/cache/2d2e350e73065c0f42c90f0a12869353/b/a/banpresto_tokyo_revenge_manjiro_sano_1_.jpg",
   "price": "109.90",
   "description": "Figura de Manjiro Sano Vol.2, personaje de la serie de manga Tokyo Revengers",
-  "category": "Coleccionables"
+  "category": "Coleccionables",
+  "stock": "20"
 }, 
 {
   "id": 9,
@@ -69,7 +77,8 @@
   "image": "https://phantom.pe/media/catalog/product/cache/2d2e350e73065c0f42c90f0a12869353/b/a/banpresto_demon_slayer_inosuke.jpg",
   "price": "149.90",
   "description": "Figura de Inosuke Hashibira, del popular manga y anime Demon Slayer: Kimetsu no Yaiba.",
-  "category": "Coleccionables"
+  "category": "Coleccionables",
+  "stock": "10"
 }, 
 {
   "id": 10,
@@ -77,7 +86,8 @@
   "image": "https://phantom.pe/media/catalog/product/cache/2d2e350e73065c0f42c90f0a12869353/b/a/banpresto_one_piece_portgas_d_ace_3_1_.jpg",
   "price": "239.90",
   "description": "Figura de The Portgas D Ace III, del popular manga y anime One Piece.",
-  "category": "Coleccionables"
+  "category": "Coleccionables",
+  "stock": "6"
 }, 
 {
   "id": 11,
@@ -85,7 +95,8 @@
   "image": "https://lafrikileria.com/80704-large_default/peluche-harry-potter-gryffindor-29-cm.jpg",
   "price": "23.90",
   "description": "Un fantástico peluche oficial de Harry Potter de nada menos que 29 cm.",
-  "category": "Peluches"
+  "category": "Peluches",
+  "stock": "7"
   
 }, 
 {
@@ -94,7 +105,8 @@
   "image": "https://lafrikileria.com/124221-large_default/peluche-inosuke-hashibira-kimetsu-no-yaiba-20-cm.jpg",
   "price": "34.90",
   "description": "Un maravilloso peluche oficial, de una de nuestras series de manga y anime favoritas  Demon Slayer.",
-  "category": "Peluches"
+  "category": "Peluches",
+  "stock": "11"
 }, 
 {
   "id": 13,
@@ -102,7 +114,8 @@
   "image": "https://lafrikileria.com/153296-large_default/peluche-stitch-disney-zippermouth.jpg",
   "price": "44.90",
   "description": "Un peluche al estilo Chibi de la colección de Zippermouth del prestigioso Quantum Mechanix.",
-  "category": "Peluches"
+  "category": "Peluches",
+  "stock": "12"
 }, 
 {
   "id": 14,
@@ -110,7 +123,8 @@
   "image": "https://lafrikileria.com/151940-large_default/peluche-loid-forger-spy-x-family-good-smile.jpg",
   "price": "44.90 ",
   "description": "Un maravilloso peluche oficial, de una de las series de manga y anime más geniales: Spy x Family.",
-  "category": "Peluches"
+  "category": "Peluches",
+  "stock": "12"
 }, 
 {
   "id": 15,
@@ -118,7 +132,8 @@
   "image": "https://lafrikileria.com/176062-large_default/peluche-zippermouth-marvel-loki-alligator.jpg",
   "price": "44.90",
   "description": "El Peluche Zippermouth Marvel Loki Alligator es sin duda alguna un espectacular producto.",
-  "category": "Peluches"
+  "category": "Peluches",
+  "stock": "30"
 }, 
 {
   "id": 16,
@@ -126,7 +141,8 @@
   "image": "https://lafrikileria.com/29863-large_default/peluche-escarbato-animales-fantasticos-23-cm.jpg",
   "price": "44.90",
   "description": "Un fantástico peluche oficial de Animales Fantásticos, las películas paralelas al universo Harry Potter.",
-  "category": "Peluches"
+  "category": "Peluches",
+  "stock": "10"
 }, 
 {
   "id": 17,
@@ -134,7 +150,8 @@
   "image": "https://lafrikileria.com/119879-large_default/peluche-interactivo-hedwig-harry-potter-29-cm.jpg",
   "price": "44.90",
   "description": "Un fantástico peluche interactivo de Hedwig, la lechuza más querida de la saga de libros y películas con más magia que conocemos.",
-  "category": "Peluches"
+  "category": "Peluches",
+  "stock": "20"
 }, 
 {
   "id": 18,
@@ -142,7 +159,8 @@
   "image": "https://lafrikileria.com/72951-large_default/peluche-shenron-dragon-ball-30-cm.jpg",
   "price": "23.90",
   "description": "Un peluche de gran calidad tanto en materiales como en acabados, inspirado en Shen- long",
-  "category": "Peluches"
+  "category": "Peluches",
+  "stock": "14"
 }, 
 {
   "id": 19,
@@ -150,7 +168,8 @@
   "image": "https://lafrikileria.com/82393-large_default/peluche-baby-yoda-animatronico-comilon-el-mandaloriano.jpg",
   "price": "67.40",
   "description": "No encontrarás en la galaxia nada más adorable que este pequeño peluche de Grogu.",
-  "category": "Peluches"
+  "category": "Peluches",
+  "stock": "12"
 }, 
 {
   "id": 20,
@@ -158,7 +177,8 @@
   "image": "https://lafrikileria.com/153321-large_default/peluche-malefica-dragon-zippermouth-disney.jpg",
   "price": "44.90",
   "description": "Un peluche al estilo Chibi de la colección de Zippermouth del prestigioso Quantum Mechanix.",
-  "category": "Peluches"
+  "category": "Peluches",
+  "stock": "8"
 }, 
 {
   "id": 21,
@@ -166,7 +186,8 @@
   "image": "https://phantom.pe/media/catalog/product/cache/2d2e350e73065c0f42c90f0a12869353/f/u/funko_pop_charizard.jpg",
   "price": "69.90",
   "description": "Figura Funko Pop de Charizard, de la serie animada Pokemon.",
-  "category": "Funkopops"
+  "category": "Funkopops",
+  "stock": "10"
 }, 
 {
   "id": 22,
@@ -174,7 +195,8 @@
   "image": "https://phantom.pe/media/catalog/product/cache/2d2e350e73065c0f42c90f0a12869353/6/7/67926_aot_s5_erenjaeger_pop_glam-web.jpg",
   "price": "69.90",
   "description": "Figura Funko Pop de Eren Jaeger, de la serie animada Attack on Titan.",
-  "category": "Funkopops"
+  "category": "Funkopops",
+  "stock": "3"
 }, 
 {
   "id": 23,
@@ -182,7 +204,8 @@
   "image": "https://phantom.pe/media/catalog/product/cache/2d2e350e73065c0f42c90f0a12869353/6/6/66452_popsuper_boruto_narutobyron_glam-web.jpg",
   "price": "109.90",
   "description": "Figura Funko Pop de Naruto (Baryon Mode), de la serie animada Boruto.",
-  "category": "Funkopops"
+  "category": "Funkopops",
+  "stock": "14"
 }, 
 {
   "id": 24,
@@ -190,7 +213,8 @@
   "image": "https://phantom.pe/media/catalog/product/cache/2d2e350e73065c0f42c90f0a12869353/c/o/copia_de_funko-pop-games-pokemon-mewtwo..jpg",
   "price": "69.90",
   "description": "Figura Funko Pop de Mewtwo, de la serie animada Pokemon.",
-  "category": "Funkopops"
+  "category": "Funkopops",
+  "stock": "7"
 }, 
 {
   "id": 25,
@@ -198,7 +222,8 @@
   "image": "https://phantom.pe/media/catalog/product/cache/2d2e350e73065c0f42c90f0a12869353/f/u/funko_pop_tanjiro.jpg",
   "price": "69.90",
   "description": "Figura Funko Pop de Tanjiro Kamado, de la serie animada Demon Slayer.",
-  "category": "Funkopops"
+  "category": "Funkopops",
+  "stock": "8"
 }, 
 {
   "id": 26,
@@ -206,7 +231,8 @@
   "image": "https://phantom.pe/media/catalog/product/cache/2d2e350e73065c0f42c90f0a12869353/7/2/72072_popanimation_naruto_sasukefirstsusanoo_glam-web.jpg",
   "price": "69.90",
   "description": "Figura Funko Pop de Sasuke Uchiha, de la serie animada Naruto Shippuden.",
-  "category": "Funkopops"
+  "category": "Funkopops",
+  "stock": "12"
 }, 
 {
   "id": 27,
@@ -214,7 +240,8 @@
   "image": "https://phantom.pe/media/catalog/product/cache/2d2e350e73065c0f42c90f0a12869353/7/2/72066-pop-animation-yu-gi-oh_---yami-yugi-_duelist-kingdom_---glam-web.jpg",
   "price": "69.90",
   "description": "Figura Funko Pop de Yami Yugi, de la serie animada Yu-Gi-Oh!",
-  "category": "Funkopops"
+  "category": "Funkopops",
+  "stock": "14"
 }, 
 {
   "id": 28,
@@ -222,7 +249,8 @@
   "image": "https://phantom.pe/media/catalog/product/cache/2d2e350e73065c0f42c90f0a12869353/6/0/60710_popanimation_naruto_obitouchihamasked_glam-web.jpg",
   "price": "89.90",
   "description": "Figura Funko Pop de Madara Uchiha, de la serie animada Naruto.",
-  "category": "Funkopops"
+  "category": "Funkopops",
+  "stock": "15"
 }, 
 {
   "id": 29,
@@ -230,7 +258,8 @@
   "image": "https://phantom.pe/media/catalog/product/cache/2d2e350e73065c0f42c90f0a12869353/7/2/72059-pop-animation-saint-seiya----gold-leo-ikki_glam-web.jpg",
   "price": "109.90",
   "description": "Figura Funko Pop de Leo Ikki, de la serie animada Saint Seiya.",
-  "category": "Funkopops"
+  "category": "Funkopops",
+  "stock": "11"
 }, 
 {
   "id": 30,
@@ -238,7 +267,8 @@
   "image": "https://phantom.pe/media/catalog/product/cache/2d2e350e73065c0f42c90f0a12869353/6/7/67327_popanimation_mha_deku_blackwhip_glam-web.jpg",
   "price": "69.90",
   "description": "diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam",
-  "category": "Funkopops"
+  "category": "Funkopops",
+  "stock": "10"
 }, 
 {
   "id": 31,
@@ -246,7 +276,8 @@
   "image": "https://lafrikileria.com/106927-large_default/camiseta-death-note-ryuk.jpg",
   "price": "19.90",
   "description": "Es una camiseta oficial inspirada en una de las series más oscuras del manga y el anime Death Note.",
-  "category": "Ropa"
+  "category": "Ropa",
+  "stock": "20"
 }, 
 {
   "id": 32,
@@ -254,7 +285,8 @@
   "image": "https://lafrikileria.com/122698-large_default/camiseta-my-hero-academia-deku-y-bakugo.jpg",
   "price": "23.90",
   "description": "Es una camiseta oficial inspirada en la serie de manga y anime con más héroes que conocemos My Hero Academia.",
-  "category": "Ropa"
+  "category": "Ropa",
+  "stock": "8"
 }, 
 {
   "id": 33,
@@ -262,7 +294,8 @@
   "image": "https://lafrikileria.com/181158-large_default/poncho-de-franela-one-piece-thousand-sunny.jpg",
   "price": "27.90",
   "description": "Un espectacular poncho o batamanta para estar calentito en casa con licencia oficial de One Piece.",
-  "category": "Ropa"
+  "category": "Ropa",
+  "stock": "14"
 }, 
 {
   "id": 34,
@@ -270,7 +303,8 @@
   "image": "https://lafrikileria.com/180389-large_default/poncho-naruto-akatsuki-franela.jpg",
   "price": "27.90",
   "description": "Un espectacular poncho o batamanta para estar calentito en casa con licencia oficial de Naruto.",
-  "category": "Ropa"
+  "category": "Ropa",
+  "stock": "7"
 }, 
 {
   "id": 35,
@@ -278,7 +312,8 @@
   "image": "https://lafrikileria.com/122703-large_default/sudadera-my-hero-academia-izuku-midoriya.jpg",
   "price": "62.20",
   "description": " Es una prenda de gran calidad, original y con un diseño elegante y original al mismo tiempo, basado en Boku no Hero",
-  "category": "Ropa"
+  "category": "Ropa",
+  "stock": "5"
 }, 
 {
   "id": 36,
@@ -286,7 +321,8 @@
   "image": "https://lafrikileria.com/165543-large_default/sudadera-stitch-adolescentes-de-disney.jpg",
   "price": "59.90",
   "description": "La Sudadera Stitch Adolescentes es un producto de calidad confeccionado con una mezcla de algodón y poliéster de alta resistencia.",
-  "category": "Ropa"
+  "category": "Ropa",
+  "stock": "12"
 }, 
 {
   "id": 37,
@@ -294,7 +330,8 @@
   "image": "https://lafrikileria.com/134087-large_default/sudadera-con-capucha-reversible-de-naruto.jpg",
   "price": "59.90",
   "description": "Es una prenda de gran calidad, original y con un diseño muy currado, basada en Naruto.",
-  "category": "Ropa"
+  "category": "Ropa",
+  "stock": "7"
 }, 
 {
   "id": 38,
@@ -302,7 +339,8 @@
   "image": "https://lafrikileria.com/124608-large_default/sudadera-con-capucha-harry-potter-gryffindor.jpg",
   "price": "21.20",
   "description": "Una maravilla de sudadera de Harry Potter de gran calidad, elegante y original, basada en la casa Gryffindor.",
-  "category": "Ropa"
+  "category": "Ropa",
+  "stock": "15"
 }, 
 {
   "id": 39,
@@ -310,7 +348,8 @@
   "image": "https://lafrikileria.com/100698-large_default/sudadera-hogwarts-harry-potter.jpg",
   "price": "12.90",
   "description": "Una sudadera infantil de gran calidad, original y divertida, basada en Hogwarts.",
-  "category": "Ropa"
+  "category": "Ropa",
+  "stock": "10"
 },
 {
   "id": 40,
@@ -318,6 +357,7 @@
   "image": "https://lafrikileria.com/153681-large_default/chaqueta-beisbolera-infantil-hogwarts-harry-potter.jpg",
   "price": "22.79",
   "description": "Es muy cómoda, perfecta para el día a día y tiene un diseño homenaje al Colegio Hogwarts de magia y hechicería.",
-  "category": "Ropa"
+  "category": "Ropa",
+  "stock": "12"
 }
 ]

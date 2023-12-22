@@ -1,7 +1,6 @@
 import { useEffect, useState } from "react";
 import ItemList from "../ItemList/ItemList";
 import pedirProductos from "../helpers/pedirProductos";
-import pedirItemPorId from "../helpers/pedirItemPorId";
 import { useParams } from "react-router-dom";
 
 

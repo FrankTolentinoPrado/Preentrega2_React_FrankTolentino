@@ -30,7 +30,10 @@ const NavBar = () => {
                             <Link to="/productos/Funkopops">Funkopops</Link>
                         </li>
                         <li>
-                            <Link className="boton_login" to="/nosotros">Nosotros</Link>
+                            <Link className="boton_morado" to="/nosotros">Nosotros</Link>
+                        </li>
+                        <li>
+                            <Link className="boton_morado" to="/contacto">Contacto</Link>
                         </li>
                         <CartWidget />
                     </ul>
