@@ -35,7 +35,7 @@ const NavBar = () => {
                         <li>
                             <Link className="boton_morado" to="/contacto">Contacto</Link>
                         </li>
-                        <CartWidget />
+                        <li><CartWidget /></li>
                     </ul>
                 </nav>
                 <label htmlFor="nav_check" className="hamburger">

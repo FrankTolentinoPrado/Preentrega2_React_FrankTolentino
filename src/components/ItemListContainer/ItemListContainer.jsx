@@ -9,8 +9,7 @@ const ItemListContainer = () => {
     const [productos, setProductos] = useState([]);
     const [titulo, setTitulo] = useState("Productos");
     const category = useParams().category;
-    console.log(category);
-    
+
     useEffect(() => {
         pedirProductos()      
             .then((res) => {
