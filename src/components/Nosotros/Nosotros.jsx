@@ -9,10 +9,6 @@ const Nosotros = () => {
 
   useEffect(() =>{
 
-    const clickear = () => {
-      console.log("click");
-    }
-
     window.addEventListener("click", () =>{
       console.log("click")
      })
