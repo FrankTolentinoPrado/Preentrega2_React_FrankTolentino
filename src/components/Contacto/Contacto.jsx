@@ -20,15 +20,15 @@ const Contacto = () => {
             amigable. Estamos ansiosos por escuchar de ti y brindarte la mejor
             experiencia de compra. ¡Tu satisfacción es nuestra prioridad!
           </p>
-          <a>
-            <i></i>+51 975544817
-          </a>
-          <a>
-            <i></i>flexvyne_shop@gmail.com
-          </a>
-          <a>
-            <i></i>Nuevo Chimbote, Peru
-          </a>
+          <p className="recomendacion">
+            +51 975544817
+          </p>
+          <p className="recomendacion">
+            flexvyne_shop@gmail.com
+          </p>
+          <p className="recomendacion">
+            Nuevo Chimbote, Peru
+          </p>
         </div>
         <form id="form" autoComplete="off" onSubmit={handleSubmit(enviar)}>
           <input

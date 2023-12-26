@@ -1,11 +1,10 @@
-import React, { useState } from "react";
+import React from "react";
 import "./ItemCount.css"
 
 const ItemCount = ( {cantidad, handleRestar, handleSumar, handleAgregar} ) => {
 
     return (
         <div>
-
         <div className="item-count">
             <button onClick={handleRestar}>-</button>
             <p>{cantidad}</p>
