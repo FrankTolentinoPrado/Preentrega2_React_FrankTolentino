@@ -1,0 +1,91 @@
+/* Checkout.css */
+
+.container {
+    max-width: 600px;
+    margin: 150px auto;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+  }
+  
+  .checkout-container {
+    background-color: #f8f8f8;
+  }
+  
+  .main-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .campo {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+  
+  .btn-comprar {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 18px;
+  }
+  
+  .btn-comprar:hover {
+    background-color: #45a049;
+  }
+  
+  .gracias-title {
+    font-size: 24px;
+    color: #4caf50;
+    margin-bottom: 20px;
+  }
+  
+  @media (max-width: 768px) {
+    .container {
+      padding: 10px;
+    }
+  
+    .campo {
+      font-size: 14px;
+    }
+  
+    .btn-comprar {
+      font-size: 16px;
+    }
+  }
+
+  .container-checkout {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    background-color: #fff;
+    text-align: center;
+  }
+  
+  .gracias-title {
+    font-size: 28px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  @media (max-width: 768px) {
+    .container-checkout {
+      max-width: 300px;
+    }
+  
+    .gracias-title {
+      font-size: 24px;
+    }
+  }
